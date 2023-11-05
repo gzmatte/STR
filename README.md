@@ -1,5 +1,4 @@
-# STR
-Set's Timer Resolution systemless.
+# Set's Timer Resolution systemless.
 </br> 
 Reduces the "Windows resolution" from 15.625 to 0.5ms in any Windows.
 
