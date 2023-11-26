@@ -4,6 +4,5 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/STR/releases/download/1/STR.bat)
 
-*RUN AS ADMIN*
-> This exe isn't mine. I got it from extingued _PableOS_.
+> This exe isn't mine. I got it from _PableOS_.
 
